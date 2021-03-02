@@ -1,0 +1,11 @@
+google-cloud-automl @ https://storage.googleapis.com/api-client-staging/automl-trusted-tester-python-client-20200513.tar.gz
+google-cloud-aiplatform @ https://storage.googleapis.com/google-cloud-aiplatform/libraries/python/0.2.0/google-cloud-aiplatform-0.2.0.tar.gz
+coloredlogs
+google-cloud-bigquery
+pandas
+pyarrow
+google-cloud-bigquery-storage
+google-api-python-client==1.12.8
+google-auth==1.23.0
+google-auth-httplib2==0.0.4
+google-cloud-storage
