@@ -32,7 +32,7 @@ def AutoML_import(PROJECT_ID, REGION, display_name, import_path, GOOGLE_SERVICE_
     dataset_name = dataset.name
     logging.info("creating dataset ({}) is completed\n({})".format(display_name, dataset_name))
 
-      .info("importing dataset ({}) is started".format(display_name))
+    logging.info("importing dataset ({}) is started".format(display_name))
 
     input_config = {
         'bigquery_source': {
