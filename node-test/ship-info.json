@@ -1,0 +1,42 @@
+[
+  {
+    "title": "IMO number",
+    "value": "9101637"
+  },
+  {
+    "title": "MMSI",
+    "value": "372108000"
+  },
+  {
+    "title": "Name of the ship",
+    "value": "PETRA STAR"
+  },
+  {
+    "title": "Vessel type",
+    "value": "Bulk carrier"
+  },
+  {
+    "title": "Flag",
+    "value": "Panama"
+  },
+  {
+    "title": "Gross tonnage",
+    "value": "26828 tons"
+  },
+  {
+    "title": "Deadweight",
+    "value": "43683 tons"
+  },
+  {
+    "title": "Engine type",
+    "value": "B&W"
+  },
+  {
+    "title": "Engine power",
+    "value": "8289 KW"
+  },
+  {
+    "title": "Year of build",
+    "value": "1995"
+  }
+]
